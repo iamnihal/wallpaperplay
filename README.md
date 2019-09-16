@@ -4,7 +4,9 @@ A small script written in shell scripting that automates the download process of
 #### How to run?
 - ./wallpaper.sh [url] -q --show-progress
 
+# Here:
 -q will turn off wget's output.
+
 --show-progress will force wget to display the progress bar.
 
 #### Example:-
