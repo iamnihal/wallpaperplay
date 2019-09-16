@@ -11,3 +11,6 @@ A small script written in shell scripting that automates the download process of
 
 #### Example:-
 - ./wallpaper.sh https://wallpaperplay.com/board/4k-minimalist-wallpapers -q --show-progress
+
+##### Here's the blog post about this script:-
+https://sites.google.com/view/iamnihal/automate-the-shit
