@@ -1,13 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/iamnihal/wallpaperplay"><img src="https://raw.githubusercontent.com/iamnihal/wallpaperplay/master/Screenshot%20from%202020-02-20%2023-11-36.png" alt="Extractor"></a>
+  <a href="https://github.com/iamnihal/wallpaperplay"><img src="https://raw.githubusercontent.com/iamnihal/wallpaperplay/master/logo.png" alt="Extractor"></a>
   <br>
-  Extractor
+  Wallpaperplay
   <br>
 </h1>
 
-<h4 align="center">Extractor that pulls out specific information from a source file.</h4>
-
+<h4 align="center">Automate the process of downloading wallpapers from wallpaperplay</h4>
 
 # Wallpaperplay
 A small script written in shell scripting that automates the download process of wallpapers from https://www.wallpaperplay.com
