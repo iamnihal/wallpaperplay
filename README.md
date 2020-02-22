@@ -9,7 +9,7 @@
 <h4 align="center">Automate the process of downloading wallpapers from wallpaperplay</h4>
 
 # Wallpaperplay
-A small script written in shell scripting that automates the download process of wallpapers from https://www.wallpaperplay.com
+A small script written in shell scripting that automates the download process of High Quality wallpapers from https://www.wallpaperplay.com
 
 #### How to run?
 - ./wallpaper.sh [url]
